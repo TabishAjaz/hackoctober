@@ -15,4 +15,7 @@ First, [sign up for Hacktoberfest 2020 by clicking this link](https://hacktoberf
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
 - **Event duration**: 1st October - 31st October.
+- **Dont make spamy Pull requests otherwise you will not  eligible for the Swag** 
+![image](https://user-images.githubusercontent.com/71779677/95647804-efb4d800-0aef-11eb-9f82-c3013be21420.png)
+
 
