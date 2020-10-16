@@ -2,11 +2,11 @@ from tkinter import *
 
 cal = Tk()
 cal.geometry("410x460")
-cal.title("CALCULATOR")
-cal.title("CALCULATOR")
-callabel = Label(cal, text="CALCULATOR", bg='white', font=("Times", 20, 'bold'))
+cal.title("--CALCULATOR--")
+cal.title("--CALCULATOR--")
+callabel = Label(cal, text="CALCULATOR", bg='white', font=("Times New Roman", 20, 'bold'))
 callabel.pack(side=TOP)
-cal.config(background='light blue')
+cal.config(background='light red')
 textin = StringVar()
 operator = ""
 
